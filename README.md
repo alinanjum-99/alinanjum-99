@@ -11,4 +11,4 @@
 
 -🌱 Always eager to learn and explore emerging technologies, I believe in the power of collaboration and knowledge sharing. You can find some of my latest projects and contributions right here on GitHub!
 
-=📫 Let's connect! Feel free to reach out to me via email at [YourEmail@example.com] 
+=📫 Let's connect! Feel free to reach out to me via email at alinanjum9@gmail.com 
