@@ -1,5 +1,5 @@
 <h1 align = "center">Hello there!👋</h1>
-I'm Alin, a dedicated software developer who's deeply passionate about open-source projects and the tech community's vibrancy. I hold a degree in Computer Science, and ever since graduating, I've been immersed in crafting elegant solutions to intricate problems.
+<p1 align =" center">I'm Alin, a dedicated software developer who's deeply passionate about open-source projects and the tech community's vibrancy. I hold a degree in Computer Science, and ever since graduating, I've been immersed in crafting elegant solutions to intricate problems.</p1>
 
 ![](banner.png)
 
